@@ -1,2 +1,2 @@
-# binarytree
-This is a c representation of a bianry tree
+# Binarytree
+This is a c implementation of a binary tree.
